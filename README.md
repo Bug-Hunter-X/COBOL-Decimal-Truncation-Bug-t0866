@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs involving the truncation of decimal values during arithmetic operations.  The `bug.cob` file shows code that will cause unexpected results due to insufficient decimal places in a numeric field.  `bugSolution.cob` provides a corrected version.
